@@ -2,7 +2,7 @@ public class Short_sum_Short {
     short s1 = 10;
     short s2 = 20;
     short sum = 0;
-    sum = s1 + s2;
+    //sum = s1 + s2;
 }
 
 

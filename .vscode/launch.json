@@ -1,0 +1,147 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Autoboxing<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "Autoboxing",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConcurrentModificationException<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "ConcurrentModificationException",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-ConstructorSeq<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "ConstructorSeq",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MainTest<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "MainTest",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-MutableEntry<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "MutableEntry",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-NumberPromo<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "NumberPromo",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-OptionalStreams<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "OptionalStreams",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StaticVar<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "StaticVar",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StreamNullable<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "StreamNullable",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StreamProcess<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "StreamProcess",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringComparison<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "StringComparison",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-StringInheritance<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "StringInheritance",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-String_Intern<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "String_Intern",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TableSize<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "TableSize",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Temp<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "Temp",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Test<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TestThread<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "TestThread",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-TryCatch<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "TryCatch",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-VarDefineError<Java_daily_code_db6fdd45>",
+            "request": "launch",
+            "mainClass": "VarDefineError",
+            "projectName": "Java_daily_code_db6fdd45"
+        }
+    ]
+}
