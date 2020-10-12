@@ -4,6 +4,14 @@
     // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
+    
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - StringReversal",
+            "request": "launch",
+            "mainClass": "StringReversal",
+            "projectName": "Java_daily_code_db6fdd45"
+        },
         {
             "type": "java",
             "name": "Debug (Launch) - Current File",
